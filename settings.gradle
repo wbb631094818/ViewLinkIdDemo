@@ -1,0 +1,3 @@
+include ':viewlink'
+include ':viewlinkid-processor'
+include ':app'
