@@ -1,4 +1,4 @@
-@[TOC](Android 如何使用AbstractProcessor)
+
 
 > 如今很多的第三方库都使用了注解的方式，像ButterKnife，room等。在看其源码的过程中，对注解产生了兴趣，所以就有了这篇。本文以自己实现简单的ButterKnife功能为例，来慢慢熟悉自定义AbstractProcessor。
 
@@ -427,5 +427,3 @@ java的编译流程
 [聊聊AbstractProcessor和Java编译流程](https://cloud.tencent.com/developer/article/1717461)
 [annotationProcessor的二三事](https://27house.cn/archives/1441)
 
-## 最后附上Demo
-[githup地址](https://github.com/wbb631094818/ViewLinkIdDemo)
